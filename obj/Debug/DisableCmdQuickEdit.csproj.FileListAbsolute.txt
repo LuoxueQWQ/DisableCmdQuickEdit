@@ -1,0 +1,7 @@
+E:\C#\DisableCmdQuickEdit\bin\Debug\DisableCmdQuickEdit.exe.config
+E:\C#\DisableCmdQuickEdit\bin\Debug\DisableCmdQuickEdit.exe
+E:\C#\DisableCmdQuickEdit\bin\Debug\DisableCmdQuickEdit.pdb
+E:\C#\DisableCmdQuickEdit\obj\Debug\DisableCmdQuickEdit.csproj.AssemblyReference.cache
+E:\C#\DisableCmdQuickEdit\obj\Debug\DisableCmdQuickEdit.csproj.CoreCompileInputs.cache
+E:\C#\DisableCmdQuickEdit\obj\Debug\DisableCmdQuickEdit.exe
+E:\C#\DisableCmdQuickEdit\obj\Debug\DisableCmdQuickEdit.pdb
