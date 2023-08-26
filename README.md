@@ -1,0 +1,2 @@
+# DisableCmdQuickEdit
+Disable Cmd QuickEdit
